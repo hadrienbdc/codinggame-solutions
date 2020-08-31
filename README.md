@@ -1,2 +1,2 @@
-# codinggame-solutions
+# CodinGame Solutions
 Personal CodingGame Solutions 

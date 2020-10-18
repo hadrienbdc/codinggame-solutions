@@ -24,7 +24,7 @@ My profile: https://www.codingame.com/profile/14e1a55d773c72beeead4dfb7e48279471
 |---------|:----------:|:------:|
 | [ONBOARDING](https://www.codingame.com/training/easy/onboarding) | Easy | [py](puzzle/easy/ONBOARDING/solution.py) |
 | [LA DESCENTE](https://www.codingame.com/training/easy/the-descent) | Easy | [py](puzzle/easy/LA%20DESCENTE/solution.py) |
-| [LA DESCENTE](https://www.codingame.com/training/easy/power-of-thor-episode-1) | Easy | [py](puzzle/easy/POWER%20OF%20THOR%20-%20EPISODE%201/solution.py) |
+| [POWER OF THOR - EPISODE 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | Easy | [py](puzzle/easy/POWER%20OF%20THOR%20-%20EPISODE%201/solution.py) |
 
 ### Multiplayer
 

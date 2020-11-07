@@ -17,11 +17,11 @@ My profile: https://www.codingame.com/profile/14e1a55d773c72beeead4dfb7e48279471
 
 ## Difficulty
 
-* [Easy](#puzzle)
-* [Medium](#puzzle)
-* [Hard](#puzzle)
+* [Easy](#easy)
+* [Medium](#medium)
+* [Hard](#hard)
 
-**Problems have been solved:** 14
+**Solved problems:** 14
 
 ### Easy
 

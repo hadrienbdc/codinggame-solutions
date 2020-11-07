@@ -25,7 +25,7 @@ My profile: https://www.codingame.com/profile/14e1a55d773c72beeead4dfb7e48279471
 **Problems have been solved:** 3
 
 | Problem | Solution |
-|---------|:----------:|:------:|
+|---------|:------:|
 | [ONBOARDING](https://www.codingame.com/training/easy/onboarding) | [py](easy/ONBOARDING/solution.py) |
 | [LA DESCENTE](https://www.codingame.com/training/easy/the-descent) | [py](easy/LA%20DESCENTE/solution.py) |
 | [POWER OF THOR - EPISODE 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | [py](easy/POWER%20OF%20THOR%20-%20EPISODE%201/solution.py) |
